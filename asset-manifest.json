@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e543ad38.css",
+    "main.js": "/static/js/main.1201cdaf.js",
+    "static/js/453.71e0c91b.chunk.js": "/static/js/453.71e0c91b.chunk.js",
+    "static/media/raiden.png": "/static/media/raiden.9368a5e26119d0112106.png",
+    "index.html": "/index.html",
+    "main.e543ad38.css.map": "/static/css/main.e543ad38.css.map",
+    "main.1201cdaf.js.map": "/static/js/main.1201cdaf.js.map",
+    "453.71e0c91b.chunk.js.map": "/static/js/453.71e0c91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e543ad38.css",
+    "static/js/main.1201cdaf.js"
+  ]
+}
